@@ -20,7 +20,7 @@ def add_colors
   rainbow_colors = [0, 1, 2]
   
   rainbow_colors[3] = "green"
-  print 
+  print rainbow_colors
   ra
   
 return add_colors
