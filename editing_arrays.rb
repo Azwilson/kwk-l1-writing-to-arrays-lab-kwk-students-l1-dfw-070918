@@ -19,7 +19,6 @@ def add_colors
  
   rainbow_colors = [0, 1, 2]
   
-  "green".last
-  "blue".last
+  
 return add_colors
 end
