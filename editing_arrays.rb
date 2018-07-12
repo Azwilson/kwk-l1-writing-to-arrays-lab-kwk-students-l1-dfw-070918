@@ -25,5 +25,4 @@ def add_colors
 
 end 
   
-return add_colors
-end
+
