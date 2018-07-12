@@ -21,7 +21,7 @@ def add_colors
   
   rainbow_colors[3] = "green"
   print rainbow_colors
-  ra
+  
   
 return add_colors
 end
