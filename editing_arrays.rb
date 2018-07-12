@@ -19,7 +19,7 @@ def add_colors
  
   rainbow_colors = [0, 1, 2]
   
-  rainbow_colors[3]
+  rainbow_colors[3] = "green"
   
 return add_colors
 end
