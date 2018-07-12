@@ -19,7 +19,7 @@ def add_colors
  
   rainbow_colors = [0, 1, 2]
   
-  rainbow_colors.push 
+  rainbow_colors.push("green")
   print rainbow_colors
   
   
